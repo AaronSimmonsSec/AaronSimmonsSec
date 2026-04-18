@@ -1,16 +1,30 @@
-## Hi there 👋
+## 🔐 Aaron Simmons' Cybersecurity Project Portfolio
 
-<!--
-**AaronSimmonsSec/AaronSimmonsSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity professional with deep experience in GRC, banking, and fintech, focused on strengthening security posture through both strategic leadership and hands-on execution.
 
-Here are some ideas to get you started:
+This portfolio highlights hands-on projects across vulnerability management, threat detection, security awareness and education, and security operations. These projects reflect real-world application including scripting, SIEM analysis, incident response, security awareness training and education, and offensive security techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚠️ Vulnerability Management Projects
+- 🚧 Under Construction
+
+---
+
+## 🚨 Threat Hunting and Security Operations
+- 🚧 Under Construction
+
+---
+
+## 📚 Security Awareness and Education Training
+- 🚧 Under Construction
+
+---
+
+## 🛡️ Security Assessment
+- 🚧 Under Construction
+
+---
+
+## 📱 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/aaron-simmons-868a4653/)
