@@ -40,7 +40,7 @@ This portfolio highlights hands-on projects across **vulnerability management, t
 ## 📚 Security Awareness and Education Training
 👥 *Driving behavior change through scalable human risk programs*
 
-- [Click here to access](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Enterprise%20Security%20Awareness%20%26%20Human%20Risk%20Management%20Portfolio.md)
+- [Click here to access](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/README.md)
 
 ---
 
