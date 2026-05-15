@@ -34,6 +34,14 @@ This portfolio highlights hands-on projects across **vulnerability management, t
 - **Automation & Scripting (PowerShell, Python, Bash)**
 - **Risk Translation & Business Alignment**
 
+
+---
+
+## 📚 Security Awareness and Education Training
+👥 *Driving behavior change through scalable human risk programs*
+
+- [Click here to access](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Enterprise%20Security%20Awareness%20%26%20Human%20Risk%20Management%20Portfolio.md)
+
 ---
 
 ## ⚠️ Vulnerability Management Projects
@@ -45,13 +53,6 @@ This portfolio highlights hands-on projects across **vulnerability management, t
 
 ## 🚨 Threat Hunting and Security Operations
 🛡️ *Detection engineering, threat hunting, and incident response scenarios*
-
-- 🚧 Under Construction
-
----
-
-## 📚 Security Awareness and Education Training
-👥 *Driving behavior change through scalable human risk programs*
 
 - 🚧 Under Construction
 
