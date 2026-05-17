@@ -48,20 +48,7 @@ This portfolio highlights hands-on projects across **vulnerability management, t
 🔍 *Identifying, prioritizing, and remediating enterprise risk*
 
 - [Click here to access](https://github.com/AaronSimmonsSec/Vulnerability-Management-Program/blob/main/README.md)
----
-
-## 🚨 Threat Hunting and Security Operations
-🛡️ *Detection engineering, threat hunting, and incident response scenarios*
-
-- 🚧 Under Construction
-
----
-
-## 🛡️ Security Assessment
-📊 *Evaluating security posture through risk-based assessments and controls testing*
-
-- 🚧 Under Construction
-
+- 
 ---
 
 ## ⚙️ Tools & Technologies
