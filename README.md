@@ -48,7 +48,7 @@ This portfolio highlights hands-on projects across **vulnerability management, t
 🔍 *Identifying, prioritizing, and remediating enterprise risk*
 
 - [Click here to access](https://github.com/AaronSimmonsSec/Vulnerability-Management-Program/blob/main/README.md)
-- 
+
 ---
 
 ## ⚙️ Tools & Technologies
