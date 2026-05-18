@@ -47,8 +47,10 @@ This portfolio highlights hands-on projects across **vulnerability management, t
 ## ⚠️ Vulnerability Management Projects
 🔍 *Identifying, prioritizing, and remediating enterprise risk*
 
-- [Click here to access](https://github.com/AaronSimmonsSec/Vulnerability-Management-Program/blob/main/README.md)
-
+- [Vulnerability Management Program Design](https://github.com/AaronSimmonsSec/Vulnerability-Management-Program/blob/main/README.md)
+- [Azure Vulnerability Management with Tenable](https://github.com/AaronSimmonsSec/Vulnerability-Management-Program/blob/main/Azure%20Vulnerability%20Management%20with%20Tenable.md)
+- [Windows and Linux Remediation Scripts](https://github.com/AaronSimmonsSec/Vulnerability-Management-Program/blob/main/Windows%20and%20Linux%20Remediation%20Scripts.md)
+- [Cybersecurity Vulnerability Management Policy for Financial Institutions](https://github.com/AaronSimmonsSec/Vulnerability-Management-Program/blob/main/Example%20-%20Vulnerability%20Management%20Policy%20-%20FI.md)
 ---
 
 ## ⚙️ Tools & Technologies
