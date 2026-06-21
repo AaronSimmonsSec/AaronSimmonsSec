@@ -39,18 +39,9 @@ This portfolio highlights hands-on projects across **vulnerability management, t
 ## 🏢 Enterprise GRC & Third-Party Risk Management
 🛡️ *Building scalable governance, risk, and third-party risk management programs aligned to regulatory and industry frameworks*
 
-- [Enterprise GRC & Third-Party Risk Management Program](https://github.com/AaronSimmonsSec/Enterprise-GRC-Third-Party-Risk-Management-Program)
+- [Enterprise GRC & Third-Party Risk Management Program](https://github.com/AaronSimmonsSec/AaronSimmonsSec/blob/main/README.md)
   
   Comprehensive third-party risk management (TPRM) program portfolio demonstrating governance structures, vendor due diligence, risk assessment methodologies, continuous monitoring practices, remediation workflows, executive reporting, and audit-ready documentation.
-
-### Featured Program Components
-
-#### Governance & Oversight
-#### Third-Party Risk Management
-#### Risk Assessment & Treatment
-#### Continuous Monitoring
-#### Executive Reporting & Governance
-#### AI Governance & Third-Party AI Risk
 
 This repository demonstrates the design and operation of a mature enterprise third-party risk management program, including vendor onboarding, due diligence, risk assessments, ongoing monitoring, remediation management, executive reporting, AI governance, and governance committee oversight.
 
